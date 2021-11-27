@@ -1,0 +1,1 @@
+git clone https://github.com/TshAkEab/TshAkE && cd TshAkE && chmod +x install.sh && ./install.sh
