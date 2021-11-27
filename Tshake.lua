@@ -1,4 +1,4 @@
---[[
+--[[git clone https://github.com/TshAkEab/TshAkE && cd TshAkE && chmod +x install.sh && ./install.sh
 
 --]]
 database = dofile("./File_Libs/redis.lua").connect("127.0.0.1", 6379)
